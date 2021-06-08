@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100;200;300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@400;500;600;700&display=swap');
+*{
+    font-weight: 300px;
+}
+$font_title:'Playfair Display', serif;
+$font:'Noto Sans TC', sans-serif;
+$font_money:'Baloo Tamma 2', cursive;
+
+// $gray:rgb(109, 109, 109);
+// $white:rgb(255, 255, 255);
+@import "bootstrap/bootstrap";
+@import "0527";
